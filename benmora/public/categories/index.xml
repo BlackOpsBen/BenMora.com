@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ben Mora</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on Ben Mora</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Illustration</title>
+      <link>http://localhost:1313/categories/illustration/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/illustration/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Animation</title>
+      <link>http://localhost:1313/categories/animation/</link>
+      <pubDate>Thu, 06 May 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/animation/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
+</rss>

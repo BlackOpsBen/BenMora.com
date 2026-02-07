@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Illustration on Ben Mora</title>
+    <link>http://localhost:1313/illustration/</link>
+    <description>Recent content in Illustration on Ben Mora</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/illustration/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Inktober 2017 Title</title>
+      <link>http://localhost:1313/illustration/inktober-2017/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/illustration/inktober-2017/</guid>
+        <media:content url="http://localhost:1313/illustration/inktober-2017/Day-30-Found_hu_db2313a42ed80eef.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/illustration/inktober-2017/Day-30-Found_hu_db2313a42ed80eef.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Inktober 2018 Title</title>
+      <link>http://localhost:1313/illustration/inktober-2018/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/illustration/inktober-2018/</guid>
+        <media:content url="http://localhost:1313/illustration/inktober-2018/01_Poisonous_hu_4991d6ad65d15247.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/illustration/inktober-2018/01_Poisonous_hu_4991d6ad65d15247.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Inktober 2019 Title</title>
+      <link>http://localhost:1313/illustration/inktober-2019/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/illustration/inktober-2019/</guid>
+        <media:content url="http://localhost:1313/illustration/inktober-2019/01_Ring_hu_26c664b381f50ee1.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/illustration/inktober-2019/01_Ring_hu_26c664b381f50ee1.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Inktober 2020 Title</title>
+      <link>http://localhost:1313/illustration/inktober-2020/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/illustration/inktober-2020/</guid>
+        <media:content url="http://localhost:1313/illustration/inktober-2020/01_Fish_hu_c61ce90b73a7b5cf.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/illustration/inktober-2020/01_Fish_hu_c61ce90b73a7b5cf.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Inktober 2021 Title</title>
+      <link>http://localhost:1313/illustration/inktober-2021/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/illustration/inktober-2021/</guid>
+        <media:content url="http://localhost:1313/illustration/inktober-2021/Day-01-Crystal_hu_214afd0f194fc8af.jpg" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/illustration/inktober-2021/Day-01-Crystal_hu_214afd0f194fc8af.jpg&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
