@@ -2,7 +2,7 @@
 defaults:
   # _pages
   - scope:
-      path: ""
+      path: "illustration"
       type: pages
     values:
       layout: single
