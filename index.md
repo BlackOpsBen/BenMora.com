@@ -3,4 +3,8 @@ layout: home
 author_profile: false
 ---
 
-Welcome to my portfolio.
+## Projects
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url }})
+{% endfor %}
