@@ -8,4 +8,7 @@ gallery:
   - url: /images/project-one/video.mp4
 ---
 
+{% include gallery %}
+
+
 Description of the project goes here.
