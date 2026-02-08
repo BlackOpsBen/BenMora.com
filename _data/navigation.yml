@@ -2,6 +2,10 @@
 main:
   - title: "Illustration"
     url: /illustration/
+  - title: "Game-Dev"
+    url: /game-dev/
+  - title: "Animation"
+    url: /mograph/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
