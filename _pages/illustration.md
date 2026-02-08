@@ -2,7 +2,7 @@
 title: Illustration
 layout: single
 author_profile: true
-#permalink: /illustration/
+permalink: /illustration/
 classes: wide
 gallery:
   - url: /images/project-one/demo.gif
