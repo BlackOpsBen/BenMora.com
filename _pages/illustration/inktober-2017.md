@@ -1,10 +1,17 @@
 ---
 title: Inktober 2017
-thumbnail: /assets/images/illustrations/magical-forest-thumb.jpg   # path to small version
-full_image: /assets/images/illustrations/magical-forest-full.jpg   # optional, for the detail page
-date: 2025-12-01   # optional, for sorting
-order: 1           # optional, if you want custom sort
+layout: single
+author_profile: true
+permalink: /illustration/inktober-2017/
+classes: wide
+gallery:
+  - url: /images/illustration/inktober-2017/Day-01-Swift.png
+    image_path: /images/illustration/inktober-2017/Day-01-Swift.png
+  - url: /images/illustration/inktober-2017/Day-02-Divided.png
+    image_path: /images/illustration/inktober-2017/Day-02-Divided.png
+  - url: /images/illustration/inktober-2017/Day-03-Poison.png
+    image_path: /images/illustration/inktober-2017/Day-03-Poison.png
 ---
-Here goes a longer description, process notes, tools used, etc.
+This is my stuff!
 
-You can add as much Markdown content as you want — paragraphs, more images, embeds, etc.
+{% include gallery %}

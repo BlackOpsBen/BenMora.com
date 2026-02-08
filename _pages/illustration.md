@@ -5,4 +5,5 @@ author_profile: true
 permalink: /illustration/
 classes: wide
 ---
-My illustrations
+# Illustration Page
+This is my stuff!
