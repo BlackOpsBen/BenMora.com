@@ -4,5 +4,4 @@ layout: single
 author_profile: true
 permalink: /game-dev/
 ---
-# Game-Dev Page
-This is my stuff!
+My game-dev work
