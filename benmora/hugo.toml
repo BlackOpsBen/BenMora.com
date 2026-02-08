@@ -1,6 +1,0 @@
-baseURL = 'https://benmora.com/'
-languageCode = 'en-us'
-title = 'Ben Mora'
-[module]
-  [[module.imports]]
-    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
