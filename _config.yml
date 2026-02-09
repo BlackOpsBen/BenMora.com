@@ -321,3 +321,8 @@ defaults:
     values:
       layout: single
       share: true
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
