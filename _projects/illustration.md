@@ -1,6 +1,8 @@
 ---
 title: Illustration
-layout: single
+layout: collection
+collection: illustration
+entries_layout: grid
 author_profile: true
 permalink: /illustration/
 classes: wide

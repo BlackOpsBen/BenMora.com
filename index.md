@@ -1,8 +1,8 @@
 ---
 title: Projects
 layout: collection
-author_profile: true
 collection: projects
 entries_layout: grid
+author_profile: true
 ---
 This is my home page.

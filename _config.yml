@@ -326,3 +326,6 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  illustration:
+    output: true
+    permalink: /illustration/:path/
