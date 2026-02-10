@@ -2,12 +2,12 @@
 title: Home
 layout: single
 feature_row:
-  - image_path: /assets/images/illustration/illustration-thumb.jpg
+  - image_path: /assets/images/illustration/illustration-thumb.png
     alt: "Illustration"
     title: "Illustration"
     excerpt: "Illustration & concept art"
     url: /illustration/
-  - image_path: /assets/images/game-dev/gamedev-thumb.gif
+  - image_path: /assets/images/game-dev/game-dev-thumb.gif
     alt: "Game Dev"
     title: "Game Dev"
     excerpt: "Games and interactive projects"

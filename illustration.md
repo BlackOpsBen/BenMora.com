@@ -15,3 +15,4 @@ feature_row:
     excerpt: "Illustration series"
     url: /illustration/wages-of-war/
 ---
+{% include feature_row %}
