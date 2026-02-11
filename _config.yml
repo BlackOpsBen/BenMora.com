@@ -323,9 +323,15 @@ defaults:
       share: true
 
 collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
+  #projects:
+  #  output: true
+  #  permalink: /projects/:path/
   illustration:
     output: true
     permalink: /illustration/:path/
+  game-dev:
+    output: true
+    permalink: /game-dev/:path/
+  animation:
+    output: true
+    permalink: /animation/:path/

@@ -11,7 +11,7 @@ feature_row:
     alt: "Game Dev"
     title: "Game Dev"
     excerpt: "Games and interactive projects"
-    url: /gamedev/
+    url: /game-dev/
   - image_path: /assets/images/animation/animation-thumb.gif
     alt: "Animation"
     title: "Animation"
