@@ -1,5 +1,8 @@
 ---
 title: Illustration
+excerpt: Illustrations both digital and traditional
+header:
+  teaser: /assets/images/illustration/illustration-thumb.png
 layout: single
 feature_row:
   - image_path: /assets/images/illustration/inktober-2017/thumb.png
