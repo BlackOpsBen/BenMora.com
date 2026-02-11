@@ -9,3 +9,23 @@ When I first heard about what a "game jam" was from watching a GMTK video, I fel
 
 Head over to my [itch.io page](https://blackopsben.itch.io/) to play all of my games!
 
+{% for game in site.games reversed %}
+
+<div style="display: flex; gap: 20px; margin-bottom: 40px; align-items: flex-start;">
+
+  <div style="flex: 0 0 250px;">
+    <img src="{{ game.image }}" alt="{{ game.title }}">
+  </div>
+
+  <div>
+    <h2>{{ game.title }}</h2>
+    <p>{{ game.excerpt }}</p>
+
+    {% if game.itch %}
+      <p><a href="{{ game.itch }}">Play on itch.io</a></p>
+    {% endif %}
+  </div>
+
+</div>
+
+{% endfor %}

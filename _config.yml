@@ -332,3 +332,5 @@ collections:
   animation:
     output: true
     permalink: /animation/:path/
+  game-jams:
+    output: false
