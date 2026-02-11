@@ -1,6 +1,5 @@
 ---
 title: Inktober 2018
-
 excerpt: Inktober 2018 Daily Drawings
 header:
   teaser: /assets/images/illustration/inktober-2018/thumb.png
