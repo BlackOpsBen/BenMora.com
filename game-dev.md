@@ -1,5 +1,8 @@
 ---
 title: Game-Dev
+excerpt: Game Jams and other game-dev projects
+header:
+    teaser: 
 layout: single
 author_profile: true
 permalink: /game-dev/
