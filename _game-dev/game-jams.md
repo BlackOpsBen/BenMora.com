@@ -14,7 +14,7 @@ Head over to my [itch.io page](https://blackopsben.itch.io/) to play all of my g
 <div style="display: flex; gap: 20px; margin-bottom: 40px; align-items: flex-start;">
 
   <div style="flex: 0 0 250px;">
-    <img src="{{ game.thumb }}" alt="{{ game.title }}">
+    <img src="{{ game.thumb | relative_url }}" alt="{{ game.title }}">
   </div>
 
   <div>
