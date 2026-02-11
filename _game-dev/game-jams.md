@@ -9,7 +9,7 @@ When I first heard about what a "game jam" was from watching a GMTK video, I fel
 
 Head over to my [itch.io page](https://blackopsben.itch.io/) to play all of my games!
 
-{% for game in site.games reversed %}
+{% for game in site["game-jams"] reversed %}
 
 <div style="display: flex; gap: 20px; margin-bottom: 40px; align-items: flex-start;">
 
