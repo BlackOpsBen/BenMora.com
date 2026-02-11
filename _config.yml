@@ -323,9 +323,9 @@ defaults:
       share: true
 
 collections:
-  #projects:
-  #  output: true
-  #  permalink: /projects/:path/
+  sections:
+    output: true
+    permalink: /:path/
   illustration:
     output: true
     permalink: /illustration/:path/

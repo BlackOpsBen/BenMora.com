@@ -1,8 +1,11 @@
 ---
-title: Inktober 2018
+title: Inktober 2017
+excerpt: Inktober 2017 Daily Drawings
+header:
+  teaser: /assets/images/illustration/inktober-2017/thumb.png
 layout: single
 #author_profile: true
-#permalink: /illustration/inktober-2018/
+#permalink: /illustration/inktober-2017/
 #classes: wide
 gallery:
   - url: /assets/images/illustration/inktober-2017/Day-01-Swift.png
