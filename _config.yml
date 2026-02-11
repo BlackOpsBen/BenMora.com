@@ -323,9 +323,6 @@ defaults:
       share: true
 
 collections:
-  sections:
-    output: true
-    permalink: /:path/
   illustration:
     output: true
     permalink: /illustration/:path/
