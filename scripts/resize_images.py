@@ -27,24 +27,29 @@ def resize_image(input_path, output_path, max_size):
 
 
 def process():
-    ensure_dir(THUMB_DIR)
-    ensure_dir(LARGE_DIR)
+    for root, _, files in os.walk(ORIGINAL_DIR):
+        for filename in files:
+            if filename.lower().endswith((".jpg", ".jpeg", ".png")):
 
-    for filename in os.listdir(ORIGINAL_DIR):
-        if filename.lower().endswith((".jpg", ".jpeg", ".png")):
-            input_path = os.path.join(ORIGINAL_DIR, filename)
-            name = os.path.splitext(filename)[0]
+                input_path = os.path.join(root, filename)
 
-            thumb_output = os.path.join(THUMB_DIR, name + ".jpg")
-            large_output = os.path.join(LARGE_DIR, name + ".jpg")
+                # Compute relative path
+                relative_path = os.path.relpath(input_path, ORIGINAL_DIR)
+                name = os.path.splitext(relative_path)[0]
 
-            if not os.path.exists(thumb_output):
-                print(f"Creating thumb: {filename}")
-                resize_image(input_path, thumb_output, THUMB_SIZE)
+                thumb_output = os.path.join(THUMB_DIR, name + ".jpg")
+                large_output = os.path.join(LARGE_DIR, name + ".jpg")
 
-            if not os.path.exists(large_output):
-                print(f"Creating large: {filename}")
-                resize_image(input_path, large_output, LARGE_SIZE)
+                ensure_dir(os.path.dirname(thumb_output))
+                ensure_dir(os.path.dirname(large_output))
+
+                if not os.path.exists(thumb_output):
+                    print(f"Creating thumb: {relative_path}")
+                    resize_image(input_path, thumb_output, THUMB_SIZE)
+
+                if not os.path.exists(large_output):
+                    print(f"Creating large: {relative_path}")
+                    resize_image(input_path, large_output, LARGE_SIZE)
 
 
 if __name__ == "__main__":
