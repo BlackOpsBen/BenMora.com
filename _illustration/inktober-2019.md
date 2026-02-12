@@ -4,6 +4,7 @@ excerpt: Inktober 2019 Daily Drawings
 header:
   teaser: /assets/images/thumbs/illustration/inktober-2019/Day-01-Ring.jpg
 layout: single
+classes: wide
 gallery:
   - url: /assets/images/large/illustration/inktober-2019/Day-01-Ring.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2019/Day-01-Ring.jpg

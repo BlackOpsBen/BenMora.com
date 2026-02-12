@@ -4,6 +4,7 @@ excerpt: January 2018 Daily Drawings
 header:
   teaser: /assets/images/thumbs/illustration/january-drawing-challenge-2018/2018-01-28.jpg
 layout: single
+classes: wide
 gallery:
   - url: /assets/images/large/illustration/january-drawing-challenge-2018/2018-01-01.jpg
     image_path: /assets/images/thumbs/illustration/january-drawing-challenge-2018/2018-01-01.jpg

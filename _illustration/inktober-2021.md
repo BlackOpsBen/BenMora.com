@@ -4,6 +4,7 @@ excerpt: Inktober 2021 Daily Drawings
 header:
   teaser: /assets/images/thumbs/illustration/inktober-2021/Day-20-Sprout.jpg
 layout: single
+classes: wide
 gallery:
   - url: /assets/images/large/illustration/inktober-2021/Day-01-Crystal.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2021/Day-01-Crystal.jpg

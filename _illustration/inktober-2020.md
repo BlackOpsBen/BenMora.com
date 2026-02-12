@@ -4,6 +4,7 @@ excerpt: Inktober 2020 Daily Drawings
 header:
   teaser: /assets/images/thumbs/illustration/inktober-2020/Day-27-Music.jpg
 layout: single
+classes: wide
 gallery:
   - url: /assets/images/large/illustration/inktober-2020/Day-01-Fish.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2020/Day-01-Fish.jpg

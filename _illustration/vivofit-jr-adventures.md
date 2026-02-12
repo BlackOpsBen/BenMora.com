@@ -4,6 +4,7 @@ excerpt: My illustrations for my job at Garmin
 header:
   teaser: /assets/images/original/illustration/vivofit-jr-adventures/starwars-sm-thumb.gif
 layout: single
+classes: wide
 gallery:
   - url: /assets/images/large/illustration/vivofit-jr-adventures/endor.jpg
     image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/endor.jpg

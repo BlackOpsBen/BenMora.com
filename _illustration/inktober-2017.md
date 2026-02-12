@@ -4,6 +4,7 @@ excerpt: Inktober 2017 Daily Drawings
 header:
   teaser: /assets/images/thumbs/illustration/inktober-2017/Day-31-Mask.jpg
 layout: single
+classes: wide
 gallery:
   - url: /assets/images/large/illustration/inktober-2017/Day-01-Swift.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2017/Day-01-Swift.jpg

@@ -4,6 +4,7 @@ excerpt: My favorite super hero
 header:
   teaser: /assets/images/thumbs/illustration/spider-man/spider-man-cutout-18x24.jpg
 layout: single
+classes: wide
 gallery:
   - url: /assets/images/large/illustration/spider-man/spider-sense-07.jpg
     image_path: /assets/images/thumbs/illustration/spider-man/spider-sense-07.jpg
