@@ -1,0 +1,35 @@
+name: Auto Resize Images
+
+on:
+  push:
+    paths:
+      - 'assets/images/original/**'
+
+jobs:
+  resize:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Run resize script
+        run: python scripts/resize_images.py
+
+      - name: Commit resized images
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/images/thumbs assets/images/large
+          git diff --cached --quiet || git commit -m "Auto-generate resized images"
+          git push

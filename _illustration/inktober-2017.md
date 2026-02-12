@@ -2,40 +2,71 @@
 title: Inktober 2017
 excerpt: Inktober 2017 Daily Drawings
 header:
-  teaser: /assets/images/illustration/inktober-2017/thumb.png
+  teaser: /assets/images/thumb/illustration/inktober-2017/Day-31-Mask.jpg
 layout: single
 gallery:
-  - image_path: /assets/images/illustration/inktober-2017/Day-01-Swift.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-02-Divided.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-03-Poison.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-04-Underwater.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-05-Long.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-06-Sword.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-07-Shy.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-08-Crooked.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-09-Screech.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-10-Gigantic.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-11-Run.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-12-Shattered.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-13-Teeming.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-14-Fierce.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-15-Mysterious.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-16-Phat.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-17-Graceful.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-18-Filthy.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-19-Cloud.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-20-Deep.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-21-Furious.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-22-Trail.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-23-Juicy.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-24-Blind.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-25-Ship.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-26-Squeak.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-27-Climb.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-28-Fall.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-29-United.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-30-Found.png
-  - image_path: /assets/images/illustration/inktober-2017/Day-31-Mask.png
+  - url: /assets/images/large/illustration/inktober-2017/Day-01-Swift.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-01-Swift.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-02-Divided.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-02-Divided.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-03-Poison.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-03-Poison.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-04-Underwater.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-04-Underwater.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-05-Long.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-05-Long.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-06-Sword.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-06-Sword.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-07-Shy.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-07-Shy.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-08-Crooked.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-08-Crooked.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-09-Screech.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-09-Screech.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-10-Gigantic.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-10-Gigantic.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-11-Run.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-11-Run.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-12-Shattered.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-12-Shattered.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-13-Teeming.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-13-Teeming.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-14-Fierce.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-14-Fierce.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-15-Mysterious.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-15-Mysterious.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-16-Phat.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-16-Phat.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-17-Graceful.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-17-Graceful.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-18-Filthy.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-18-Filthy.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-19-Cloud.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-19-Cloud.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-20-Deep.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-20-Deep.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-21-Furious.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-21-Furious.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-22-Trail.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-22-Trail.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-23-Juicy.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-23-Juicy.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-24-Blind.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-24-Blind.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-25-Ship.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-25-Ship.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-26-Squeak.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-26-Squeak.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-27-Climb.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-27-Climb.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-28-Fall.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-28-Fall.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-29-United.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-29-United.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-30-Found.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-30-Found.jpg
+  - url: /assets/images/large/illustration/inktober-2017/Day-31-Mask.jpg
+    image_path: /assets/images/thumb/illustration/inktober-2017/Day-31-Mask.jpg
 ---
 This is my stuff!
 
