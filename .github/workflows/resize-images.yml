@@ -2,6 +2,9 @@ name: Auto Resize Images
 
 on:
   push:
+    paths:
+      - 'assets/images/original/**'
+      - 'scripts/resize_images.py'
 
 jobs:
   resize:
