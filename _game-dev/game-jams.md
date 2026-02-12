@@ -11,14 +11,21 @@ Head over to my [itch.io page](https://blackopsben.itch.io/) to play all of my g
 
 {% for game in site["game-jams"] %}
 
+<a href="{{ game.itch }}">
+<h2>{{ game.title }}</h2>
+
 <div style="display: flex; gap: 20px; margin-bottom: 40px; align-items: flex-start;">
 
   <div style="flex: 0 0 250px;">
     <img src="{{ game.thumb | relative_url }}" alt="{{ game.title }}">
   </div>
 
+  <div style="flex: 0 0 250px;">
+    <img src="{{ game.sample | relative_url }}" alt="{{ game.title }} gameplay">
+  </div>
+
   <div>
-    <h2>{{ game.title }}</h2>
+    <h2>{{ game.title }}</h2></a>
     <p>{{ game.excerpt }}</p>
 
     {% if game.itch %}
