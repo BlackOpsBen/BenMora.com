@@ -2,8 +2,6 @@ name: Auto Resize Images
 
 on:
   push:
-    paths:
-      - 'assets/images/original/**'
 
 jobs:
   resize:
