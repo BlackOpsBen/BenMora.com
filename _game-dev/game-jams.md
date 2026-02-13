@@ -9,30 +9,52 @@ When I first heard about what a "game jam" was from watching a GMTK video, I fel
 
 Head over to my [itch.io page](https://blackopsben.itch.io/) to play all of my games!
 
-{% for game in site["game-jams"] %}
+{% for game in site["game-jams"] reversed %}
 
-<a href="{{ game.itch }}">
-<h2>{{ game.title }}</h2>
+<article style="margin-bottom: 60px; padding: 30px; border: 1px solid #ddd; border-radius: 12px;">
 
-<div style="display: flex; gap: 20px; margin-bottom: 40px; align-items: flex-start;">
-
-  <div style="flex: 0 0 250px;">
-    <img src="{{ game.thumb | relative_url }}" alt="{{ game.title }}">
-  </div>
-
-  <div style="flex: 0 0 250px;">
-    <img src="{{ game.sample | relative_url }}" alt="{{ game.title }} gameplay">
-  </div>
-
-  <div>
-    <h2>{{ game.title }}</h2></a>
-    <p>{{ game.excerpt }}</p>
-
+  <h2 style="margin-bottom: 20px;">
     {% if game.itch %}
-      <p><a href="{{ game.itch }}">Play on itch.io</a></p>
+      <a href="{{ game.itch }}">{{ game.title }}</a>
+    {% else %}
+      {{ game.title }}
     {% endif %}
+  </h2>
+
+  <!-- Images -->
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
+
+    <div style="flex: 1 1 300px;">
+      <img src="{{ game.thumb | relative_url }}" 
+           alt="{{ game.title }}" 
+           style="width: 100%; height: auto; border-radius: 8px;">
+    </div>
+
+    <div style="flex: 1 1 300px;">
+      <img src="{{ game.sample | relative_url }}" 
+           alt="{{ game.title }} gameplay" 
+           style="width: 100%; height: auto; border-radius: 8px;">
+    </div>
+
   </div>
 
-</div>
+  <!-- Text -->
+  <p style="opacity: 0.6; font-size: 0.9em;">
+    {{ game.date | date: "%B %Y" }}
+  </p>
+
+  <p>{{ game.excerpt }}</p>
+
+  {% if game.itch %}
+    <p>
+      <a href="{{ game.itch }}" class="btn btn--primary">
+        Play on itch.io
+      </a>
+    </p>
+  {% endif %}
+
+</article>
+
+<hr style="margin: 40px 0; opacity: 0.2;">
 
 {% endfor %}
