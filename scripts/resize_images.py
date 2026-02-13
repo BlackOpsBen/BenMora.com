@@ -20,10 +20,16 @@ def resize_image(input_path, output_path, max_size):
     with Image.open(input_path) as img:
         img.thumbnail(max_size, Image.LANCZOS)
 
-        if img.mode in ("RGBA", "P"):
-            img = img.convert("RGB")
+        has_alpha = img.mode in ("RGBA", "LA") or (
+            img.mode == "P" and "transparency" in img.info
+        )
 
-        img.save(output_path, "JPEG", quality=QUALITY, optimize=True)
+        if has_alpha:
+            # Preserve transparency
+            img.save(output_path.replace(".jpg", ".png"), "PNG", optimize=True)
+        else:
+            img = img.convert("RGB")
+            img.save(output_path, "JPEG", quality=QUALITY, optimize=True)
 
 
 def process():
