@@ -1,5 +1,9 @@
 name: Auto Resize Images
 
+concurrency:
+  group: resize-images
+  cancel-in-progress: true
+
 on:
   push:
     paths:
