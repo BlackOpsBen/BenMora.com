@@ -5,6 +5,7 @@ on:
     paths:
       - 'assets/images/original/**'
       - 'scripts/resize_images.py'
+  workflow_dispatch:
 
 jobs:
   resize:
