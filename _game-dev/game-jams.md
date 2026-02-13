@@ -12,7 +12,7 @@ Head over to my [itch.io page](https://blackopsben.itch.io/) to play all of my g
 
 {% for game in site["game-jams"] reversed %}
 
-<article style="margin-bottom: 60px; padding: 30px; border: 1px solid #ddd; border-radius: 12px;">
+<article style="margin-bottom: 60px; padding: 30px; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.08);">
 
   <h2 style="margin-bottom: 20px;">
     {% if game.itch %}
@@ -22,24 +22,32 @@ Head over to my [itch.io page](https://blackopsben.itch.io/) to play all of my g
     {% endif %}
   </h2>
 
-  <!-- Images -->
+  <!-- IMAGE LAYOUT -->
   <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
 
-    <div style="flex: 1 1 300px;">
-      <img src="{{ game.thumb | relative_url }}" 
-           alt="{{ game.title }}" 
-           style="width: 100%; height: auto; border-radius: 8px;">
+    <!-- HERO IMAGE -->
+    <div style="flex: 2 1 400px;">
+      <img src="{{ game.thumb | relative_url }}"
+           alt="{{ game.title }}"
+           style="width: 100%; height: auto; border-radius: 10px;">
     </div>
 
-    <div style="flex: 1 1 300px;">
-      <img src="{{ game.sample | relative_url }}" 
-           alt="{{ game.title }} gameplay" 
-           style="width: 100%; height: auto; border-radius: 8px;">
+    <!-- 2x2 SCREENSHOT GRID -->
+    <div style="flex: 1 1 300px; display: flex; flex-wrap: wrap; gap: 10px;">
+
+      {% for shot in game.screenshots %}
+        <div style="flex: 1 1 calc(50% - 10px);">
+          <img src="{{ shot | relative_url }}"
+               alt="{{ game.title }} screenshot"
+               style="width: 100%; height: auto; border-radius: 6px;">
+        </div>
+      {% endfor %}
+
     </div>
 
   </div>
 
-  <!-- Text -->
+  <!-- TEXT CONTENT -->
   <p style="opacity: 0.6; font-size: 0.9em;">
     {{ game.date | date: "%B %Y" }}
   </p>
@@ -56,6 +64,6 @@ Head over to my [itch.io page](https://blackopsben.itch.io/) to play all of my g
 
 </article>
 
-<hr style="margin: 40px 0; opacity: 0.2;">
+<hr style="margin: 50px 0; opacity: 0.15;">
 
 {% endfor %}
