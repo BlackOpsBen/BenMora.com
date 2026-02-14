@@ -5,6 +5,7 @@ header:
   teaser: /assets/images/thumbs/illustration/spider-man/spider-man-cutout-9-17-17.jpg
 layout: single
 classes: wide
+author_profile: true
 gallery:
   - url: /assets/images/large/illustration/spider-man/spider-sense-07.jpg
     image_path: /assets/images/thumbs/illustration/spider-man/spider-sense-07.jpg

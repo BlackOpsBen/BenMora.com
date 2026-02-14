@@ -5,6 +5,7 @@ header:
   teaser: /assets/images/thumbs/illustration/inktober-2020/Day-27-Music.jpg
 layout: single
 classes: wide
+author_profile: true
 gallery:
   - url: /assets/images/large/illustration/inktober-2020/Day-01-Fish.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2020/Day-01-Fish.jpg

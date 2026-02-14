@@ -5,6 +5,7 @@ header:
   teaser: /assets/images/thumbs/illustration/inktober-2018/Day-26-Stretch.jpg
 layout: single
 classes: wide
+author_profile: true
 gallery:
   - url: /assets/images/large/illustration/inktober-2018/Day-01-Poisonous_.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2018/Day-01-Poisonous_.jpg

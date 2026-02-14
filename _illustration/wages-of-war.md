@@ -5,6 +5,7 @@ header:
   teaser: /assets/images/thumbs/illustration/wages-of-war/wages-of-war-contents-setup.jpg
 layout: single
 classes: wide
+author_profile: true
 gallery:
   - url: /assets/images/large/illustration/wages-of-war/wages-of-war-logo.jpg
     image_path: /assets/images/thumbs/illustration/wages-of-war/wages-of-war-logo.jpg

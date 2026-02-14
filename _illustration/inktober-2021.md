@@ -5,6 +5,7 @@ header:
   teaser: /assets/images/thumbs/illustration/inktober-2021/Day-20-Sprout.jpg
 layout: single
 classes: wide
+author_profile: true
 gallery:
   - url: /assets/images/large/illustration/inktober-2021/Day-01-Crystal.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2021/Day-01-Crystal.jpg
