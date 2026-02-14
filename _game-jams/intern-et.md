@@ -7,6 +7,9 @@ screenshots:
   - /assets/images/game-dev/game-jams/intern-et-sample.gif
   - /assets/images/game-dev/game-jams/intern-et-sample.gif
   - /assets/images/game-dev/game-jams/intern-et-sample.gif
-itch: https://itch.io/jam/mini-jam-47-internet/rate/565834
+itch: https://blackopsben.itch.io/intern-et
 excerpt: Provide coffee. Fix computers. Stay hydrated.
+rank: 3
+outof: 54
+percent: 6
 ---

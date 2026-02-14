@@ -7,6 +7,9 @@ screenshots:
   - /assets/images/game-dev/game-jams/knight-in-chateau-sample.gif
   - /assets/images/game-dev/game-jams/knight-in-chateau-sample.gif
   - /assets/images/game-dev/game-jams/knight-in-chateau-sample.gif
-itch: https://itch.io/jam/lux-jam/rate/583931
+itch: https://blackopsben.itch.io/knight-in-chateau
 excerpt: Use your torch sparingly. Can you survive the darkness?
+rank: 9
+outof: 109
+percent: 8
 ---
