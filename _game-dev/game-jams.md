@@ -53,6 +53,8 @@ Head over to my <a href="https://blackopsben.itch.io/" target="_blank" rel="noop
 
   <p>{{ game.excerpt }}</p>
 
+  <p>Placed #{{ game.rank }} out of {{ game.outof }}. (Top {{ game.percent }}%)</p>
+
   {% if game.itch %}
     <p>
       <a href="{{ game.itch }}" target="_blank" rel="noopener noreferrer" class="btn btn--primary">
