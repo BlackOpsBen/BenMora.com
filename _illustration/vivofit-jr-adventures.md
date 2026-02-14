@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/thumbs/illustration/vivofit-jr-adventures/hoth.png
 layout: single
 classes: wide
-sidebar: false
+author_profile: true
 gallery:
   - url: /assets/images/large/illustration/vivofit-jr-adventures/endor.png
     image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/endor.png
@@ -35,11 +35,11 @@ gallery:
     image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/scrap.png
   - url: /assets/images/original/illustration/vivofit-jr-adventures/starwars-sm.gif
     image_path: /assets/images/original/illustration/vivofit-jr-adventures/starwars-sm-thumb.gif
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/spiderman-world.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/spiderman-world.jpg
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/spiderman_world.jpg
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/spiderman_world.jpg
   - url: /assets/images/original/illustration/vivofit-jr-adventures/spidey_coin.gif
     image_path: /assets/images/original/illustration/vivofit-jr-adventures/spidey_coin.gif
 ---
-I've been obsessed with vivofit-jr-adventures ever since I can remember. I made my own vivofit-jr-adventures fan website called SpidermanFreaks when I was about 13. (I can't remember the url. If someone finds it on the internet archive, I would be forever in your debt!)
+While working as a Visual Designer on the GFX team at Garmin, I had the DREAM job of making official artwork for my two absolute favorite IPs: Star Wars and Spider-Man!
 
 {% include gallery %}
