@@ -4,7 +4,8 @@ excerpt: My illustrations for my job at Garmin
 header:
   teaser: /assets/images/thumbs/illustration/vivofit-jr-adventures/hoth.png
 layout: single
-classes: full
+classes: wide
+sidebar: false
 gallery:
   - url: /assets/images/large/illustration/vivofit-jr-adventures/endor.png
     image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/endor.png
