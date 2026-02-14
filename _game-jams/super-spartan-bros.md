@@ -15,5 +15,4 @@ jamtime: 72 hours
 jamlink: https://itch.io/jam/scorejam17/rate/1375378
 rank: 1
 outof: 144
-percent: 0
 ---
