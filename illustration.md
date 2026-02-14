@@ -5,6 +5,6 @@ collection: illustration
 entries_layout: grid
 excerpt: "Illustrations, both digital and traditional"
 header:
-    teaser: /assets/images/animation/animation-thumb.gif
+    teaser: /assets/images/thumbs/illustration/illustration-thumb.jpg
 ---
 Illustration stuff
