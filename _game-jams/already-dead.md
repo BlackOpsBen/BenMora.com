@@ -1,6 +1,6 @@
 ---
 title: "Already Dead"
-date: 20201-02-01
+date: 2021-02-01
 thumb: /assets/images/game-dev/game-jams/already-dead-thumb.png
 screenshots:
   - /assets/images/game-dev/game-jams/already-dead-sample.gif

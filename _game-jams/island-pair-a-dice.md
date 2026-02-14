@@ -1,7 +1,7 @@
 ---
 title: "Island Pair-a-dice"
 date: 2022-07-17
-thumb: /assets/images/game-dev/game-jams/island-pair-a-dice-thumb.png
+thumb: /assets/images/game-dev/game-jams/island-pair-a-dice-thumb.gif
 screenshots:
   - /assets/images/game-dev/game-jams/island-pair-a-dice-sample.gif
   - /assets/images/game-dev/game-jams/island-pair-a-dice-sample.gif

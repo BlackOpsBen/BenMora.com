@@ -1,7 +1,7 @@
 ---
 title: "Guts and Gory"
 date: 2022-02-27
-thumb: /assets/images/game-dev/game-jams/guts-and-gory-thumb.png
+thumb: /assets/images/game-dev/game-jams/guts-and-gory-thumb.gif
 screenshots:
   - /assets/images/game-dev/game-jams/guts-and-gory-sample.gif
   - /assets/images/game-dev/game-jams/guts-and-gory-sample.gif
