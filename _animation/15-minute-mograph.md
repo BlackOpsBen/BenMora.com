@@ -1,7 +1,8 @@
 ---
 title: 15-Minute Mograph
 layout: single
-excerpt: Inktober 2017 Daily Drawings
+classes: wide
+excerpt: Challenge to create an animation in 15 minutes
 header:
   teaser: /assets/images/animation/15-minute-mograph/15minmograph_5-12-21.gif
 gallery:
