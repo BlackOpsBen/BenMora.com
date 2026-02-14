@@ -2,9 +2,9 @@
 title: Garmin vivofit Jr. Adventures
 excerpt: My illustrations for my job at Garmin
 header:
-  teaser: /assets/images/original/illustration/vivofit-jr-adventures/starwars-sm-thumb.gif
+  teaser: /assets/images/thumbs/illustration/vivofit-jr-adventures/hoth.png
 layout: single
-classes: wide
+classes: full
 gallery:
   - url: /assets/images/large/illustration/vivofit-jr-adventures/endor.png
     image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/endor.png
