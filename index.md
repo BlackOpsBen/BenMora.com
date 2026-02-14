@@ -7,7 +7,7 @@ entries_layout: grid
   {% include archive-single.html
      title="Illustration"
      excerpt="Illustrations both digital and traditional"
-     teaser="/assets/images/illustration/illustration-thumb.png"
+     teaser="/assets/images/thumbs/illustration/intktober-2017/Day-31-Mask.jpg"
      url="/illustration/"
      type="grid" %}
 </div>
