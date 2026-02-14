@@ -6,32 +6,32 @@ header:
 layout: single
 classes: wide
 gallery:
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/endor.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/endor.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/tatooine.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/tatooine.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/geonosis.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/geonosis.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/hoth.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/hoth.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/kamino.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/kamino.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/mustafar.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/mustafar.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/naboo.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/naboo.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/mazs_box.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/mazs_box.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/pru.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/pru.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/sarco_plank.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/sarco_plank.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/taybin.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/taybin.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/rebel_fleet.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/rebel_fleet.jpg
-  - url: /assets/images/large/illustration/vivofit-jr-adventures/scrap.jpg
-    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/scrap.jpg
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/endor.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/endor.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/tatooine.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/tatooine.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/geonosis.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/geonosis.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/hoth.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/hoth.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/kamino.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/kamino.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/mustafar.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/mustafar.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/naboo.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/naboo.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/mazs_box.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/mazs_box.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/pru.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/pru.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/sarco_plank.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/sarco_plank.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/taybin.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/taybin.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/rebel_fleet.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/rebel_fleet.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/scrap.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/scrap.png
   - url: /assets/images/original/illustration/vivofit-jr-adventures/starwars-sm.gif
     image_path: /assets/images/original/illustration/vivofit-jr-adventures/starwars-sm-thumb.gif
   - url: /assets/images/large/illustration/vivofit-jr-adventures/spiderman-world.jpg

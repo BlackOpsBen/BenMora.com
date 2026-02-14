@@ -2,7 +2,7 @@
 title: Spider-Man
 excerpt: My favorite super hero
 header:
-  teaser: /assets/images/thumbs/illustration/spider-man/spider-man-cutout-18x24.jpg
+  teaser: /assets/images/thumbs/illustration/spider-man/spider-man-cutout-9-17-17.jpg
 layout: single
 classes: wide
 gallery:
@@ -16,8 +16,6 @@ gallery:
     image_path: /assets/images/thumbs/illustration/spider-man/venom-vs-carnage.jpg
   - url: /assets/images/large/illustration/spider-man/spider-man-cutout-9-17-17.jpg
     image_path: /assets/images/thumbs/illustration/spider-man/spider-man-cutout-9-17-17.jpg
-  - url: /assets/images/large/illustration/spider-man/spider-man-cutout-18x24.jpg
-    image_path: /assets/images/thumbs/illustration/spider-man/spider-man-cutout-18x24.jpg
   - url: /assets/images/large/illustration/spider-man/spider-man-awkward-pose.jpg
     image_path: /assets/images/thumbs/illustration/spider-man/spider-man-awkward-pose.jpg
   - url: /assets/images/large/illustration/spider-man/mysterio-digital-color.jpg
