@@ -25,8 +25,8 @@ gallery:
     image_path: /assets/images/thumbs/illustration/inktober-2019/Day-08-Frail.jpg
   - url: /assets/images/large/illustration/inktober-2019/Day-09-Swing.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2019/Day-09-Swing.jpg
-  - url: /assets/images/original/illustration/inktober-2019/Day-10-Pattern.mp4
-    image_path: /assets/images/original/illustration/inktober-2019/Day-10-Pattern.mp4
+  - url: /assets/images/original/illustration/inktober-2019/Day-10-Pattern.gif
+    image_path: /assets/images/original/illustration/inktober-2019/Day-10-Pattern.gif
   - url: /assets/images/large/illustration/inktober-2019/Day-11-Snow.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2019/Day-11-Snow.jpg
   - url: /assets/images/large/illustration/inktober-2019/Day-12-Dragon.jpg
@@ -35,8 +35,8 @@ gallery:
     image_path: /assets/images/thumbs/illustration/inktober-2019/Day-13-Ash.jpg
   - url: /assets/images/large/illustration/inktober-2019/Day-14-Overgrown.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2019/Day-14-Overgrown.jpg
-  - url: /assets/images/original/illustration/inktober-2019/Day-15-Legend.mp4
-    image_path: /assets/images/original/illustration/inktober-2019/Day-15-Legend.mp4
+  - url: /assets/images/original/illustration/inktober-2019/Day-15-Legend.gif
+    image_path: /assets/images/original/illustration/inktober-2019/Day-15-Legend.gif
   - url: /assets/images/large/illustration/inktober-2019/Day-16-Wild.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2019/Day-16-Wild.jpg
   - url: /assets/images/large/illustration/inktober-2019/Day-17-Ornament.jpg
