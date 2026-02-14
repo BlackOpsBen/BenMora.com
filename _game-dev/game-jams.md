@@ -35,7 +35,7 @@ Head over to my <a href="https://blackopsben.itch.io/" target="_blank" rel="noop
   <!-- RIGHT COLUMN (STACKED SUPPORTING IMAGES) -->
   <div style="flex: 1 1 300px; display: flex; flex-direction: column; gap: 20px;">
 
-    {% for shot in game.supporting limit:2 %}
+    {% for shot in game.screenshots limit:2 %}
       <img src="{{ shot | relative_url }}"
            alt="{{ game.title }} screenshot"
            style="width: 100%; height: auto; border-radius: 8px;">
