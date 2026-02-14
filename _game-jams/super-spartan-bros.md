@@ -1,7 +1,7 @@
 ---
 title: "Super Spartan Bros."
 date: 2022-01-31
-thumb: /assets/images/game-dev/game-jams/super-spartan-bros-thumb.png
+thumb: /assets/images/game-dev/game-jams/super-spartan-bros-thumb.gif
 screenshots:
   - /assets/images/game-dev/game-jams/super-spartan-bros-sample.gif
   - /assets/images/game-dev/game-jams/super-spartan-bros-sample.gif
