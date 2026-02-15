@@ -1,5 +1,5 @@
 ---
-title: Animation
+title: Miscellaneous 
 layout: collection
 collection: misc
 entries_layout: grid
