@@ -12,7 +12,13 @@ Head over to my <a href="https://blackopsben.itch.io/" target="_blank" rel="noop
 
 {% for game in site["game-jams"] %}
 
-<article style="margin-top: 0px; margin-bottom: 0px; padding: 30px; border-radius: 12px; box-shadow: 0 6px 20px rgba(0,0,0,0.08);">
+<article style="
+  margin: 0 0 40px 0;
+  padding: 25px 30px 30px 30px;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  overflow: hidden;
+">
 
   <h2 style="margin: 0 0 20px 0; padding: 0; border: none;">
     {% if game.itch %}
@@ -71,7 +77,5 @@ Head over to my <a href="https://blackopsben.itch.io/" target="_blank" rel="noop
   {% endif %}
 
 </article>
-
-<hr style="margin: 50px 0; opacity: 0.15;">
 
 {% endfor %}
