@@ -1,10 +1,10 @@
 ---
 title: Animation
 layout: collection
-collection: animation
+collection: misc
 entries_layout: grid
-excerpt: "2D and 3D animation and Mograph"
+excerpt: "Other fun things I've done"
 header:
     teaser: /assets/images/animation/15-minute-mograph/15minmograph_5-12-21.gif
 ---
-This is my animation stuff!
+This is my other stuff!

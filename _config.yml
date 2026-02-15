@@ -323,14 +323,14 @@ defaults:
       share: true
 
 collections:
-  illustration:
-    output: true
-    permalink: /illustration/:path/
   game-dev:
     output: true
     permalink: /game-dev/:path/
-  animation:
+  illustration:
     output: true
-    permalink: /animation/:path/
+    permalink: /illustration/:path/
+  misc:
+    output: true
+    permalink: /misc/:path/
   game-jams:
     output: false

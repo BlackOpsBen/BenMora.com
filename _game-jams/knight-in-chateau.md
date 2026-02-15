@@ -4,7 +4,7 @@ date: 2020-03-08
 thumb: /assets/images/game-dev/game-jams/knight-in-chateau-thumb.png
 screenshots:
   - /assets/images/game-dev/game-jams/knight-in-chateau-sample-1.gif
-  - /assets/images/game-dev/game-jams/knight-in-chateau-sample-2.gif
+  - /assets/images/game-dev/game-jams/knight-in-chateau-sample-2.png
 itch: https://blackopsben.itch.io/knight-in-chateau
 excerpt: Use your torch sparingly. Can you survive the darkness?
 jam: "Lux Jam 01"
