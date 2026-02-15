@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Illustration"
-    url: /illustration/
   - title: "Game-Dev"
     url: /game-dev/
-  - title: "Animation"
-    url: /animation/
+  - title: "Illustration"
+    url: /illustration/
+  - title: "Misc"
+    url: /misc/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
