@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: single
+author_profile: true
 
 feature_row:
   - image_path: /assets/images/game-dev/game-dev-thumb.jpg
