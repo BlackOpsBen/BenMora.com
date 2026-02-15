@@ -13,8 +13,8 @@ Head over to my <a href="https://blackopsben.itch.io/" target="_blank" rel="noop
 {% for game in site["game-jams"] %}
 
 <article style="
-  margin: 0 0 40px 0;
-  padding: 25px 30px 30px 30px;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
   border-radius: 12px;
   box-shadow: 0 6px 20px rgba(0,0,0,0.08);
   overflow: hidden;
