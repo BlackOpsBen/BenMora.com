@@ -3,10 +3,8 @@ title: "Super Spartan Bros."
 date: 2022-01-31
 thumb: /assets/images/game-dev/game-jams/super-spartan-bros-thumb.gif
 screenshots:
-  - /assets/images/game-dev/game-jams/super-spartan-bros-sample.gif
-  - /assets/images/game-dev/game-jams/super-spartan-bros-sample.gif
-  - /assets/images/game-dev/game-jams/super-spartan-bros-sample.gif
-  - /assets/images/game-dev/game-jams/super-spartan-bros-sample.gif
+  - /assets/images/game-dev/game-jams/super-spartan-bros-sample-1.gif
+  - /assets/images/game-dev/game-jams/super-spartan-bros-sample-2.gif
 itch: https://blackopsben.itch.io/super-spartan-bros
 excerpt: Protect your brothas in a tight Spartan Phalanx formation against the onslaught of Immortals!
 jam: "ScoreSpace Jam #17"

@@ -3,10 +3,8 @@ title: "Guts and Gory"
 date: 2022-02-27
 thumb: /assets/images/game-dev/game-jams/guts-and-gory-thumb.gif
 screenshots:
-  - /assets/images/game-dev/game-jams/guts-and-gory-sample.gif
-  - /assets/images/game-dev/game-jams/guts-and-gory-sample.gif
-  - /assets/images/game-dev/game-jams/guts-and-gory-sample.gif
-  - /assets/images/game-dev/game-jams/guts-and-gory-sample.gif
+  - /assets/images/game-dev/game-jams/guts-and-gory-sample-1.gif
+  - /assets/images/game-dev/game-jams/guts-and-gory-sample-2.gif
 itch: https://blackopsben.itch.io/gutsandgory
 excerpt: An excessively bloody alien shooter!
 jam: "Brackeys Game Jam 2022.1"

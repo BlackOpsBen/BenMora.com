@@ -3,10 +3,8 @@ title: "Knight in Chateau: Light & Shadow"
 date: 2020-03-08
 thumb: /assets/images/game-dev/game-jams/knight-in-chateau-thumb.png
 screenshots:
-  - /assets/images/game-dev/game-jams/knight-in-chateau-sample.gif
-  - /assets/images/game-dev/game-jams/knight-in-chateau-sample.gif
-  - /assets/images/game-dev/game-jams/knight-in-chateau-sample.gif
-  - /assets/images/game-dev/game-jams/knight-in-chateau-sample.gif
+  - /assets/images/game-dev/game-jams/knight-in-chateau-sample-1.gif
+  - /assets/images/game-dev/game-jams/knight-in-chateau-sample-2.gif
 itch: https://blackopsben.itch.io/knight-in-chateau
 excerpt: Use your torch sparingly. Can you survive the darkness?
 jam: "Lux Jam 01"

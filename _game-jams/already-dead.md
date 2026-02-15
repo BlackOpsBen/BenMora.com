@@ -3,10 +3,8 @@ title: "Already Dead"
 date: 2021-02-01
 thumb: /assets/images/game-dev/game-jams/already-dead-thumb.png
 screenshots:
-  - /assets/images/game-dev/game-jams/already-dead-sample.gif
-  - /assets/images/game-dev/game-jams/already-dead-sample.gif
-  - /assets/images/game-dev/game-jams/already-dead-sample.gif
-  - /assets/images/game-dev/game-jams/already-dead-sample.gif
+  - /assets/images/game-dev/game-jams/already-dead-sample-1.gif
+  - /assets/images/game-dev/game-jams/already-dead-sample-2.gif
 itch: https://blackopsben.itch.io/already-dead
 excerpt: Find the commander (or at least his neural implant) and get off the ship!
 jam: "Brackeys Game Jam 2021.1"

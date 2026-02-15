@@ -2,7 +2,7 @@
 title: Game Jams
 excerpt: Games made in less than a week!
 header:
-  teaser: /assets/images/game-dev/game-jams/game-jams-thumb.gif
+  teaser: /assets/images/game-dev/game-jams/super-spartan-bros-sample-2.gif
 layout: single
 classes: wide
 ---

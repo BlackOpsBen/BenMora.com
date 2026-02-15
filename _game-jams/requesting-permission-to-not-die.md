@@ -3,10 +3,8 @@ title: "Requesting Permission to Not Die"
 date: 2020-07-12
 thumb: /assets/images/game-dev/game-jams/requesting-permission-to-not-die-thumb.png
 screenshots:
-  - /assets/images/game-dev/game-jams/requesting-permission-to-not-die-sample.gif
-  - /assets/images/game-dev/game-jams/requesting-permission-to-not-die-sample.gif
-  - /assets/images/game-dev/game-jams/requesting-permission-to-not-die-sample.gif
-  - /assets/images/game-dev/game-jams/requesting-permission-to-not-die-sample.gif
+  - /assets/images/game-dev/game-jams/requesting-permission-to-not-die-sample-1.gif
+  - /assets/images/game-dev/game-jams/requesting-permission-to-not-die-sample-2.gif
 itch: https://blackopsben.itch.io/requesting-permission-to-not-die
 excerpt: You gotta make it back to Earth, but not so fast! You don't get to just control the ship all willy-nilly. You gotta follow protocol!
 jam: "GMTK Game Jam 2020"

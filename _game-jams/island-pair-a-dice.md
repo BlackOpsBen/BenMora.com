@@ -3,10 +3,8 @@ title: "Island Pair-a-dice"
 date: 2022-07-17
 thumb: /assets/images/game-dev/game-jams/island-pair-a-dice-thumb.gif
 screenshots:
-  - /assets/images/game-dev/game-jams/island-pair-a-dice-sample.gif
-  - /assets/images/game-dev/game-jams/island-pair-a-dice-sample.gif
-  - /assets/images/game-dev/game-jams/island-pair-a-dice-sample.gif
-  - /assets/images/game-dev/game-jams/island-pair-a-dice-sample.gif
+  - /assets/images/game-dev/game-jams/island-pair-a-dice-sample-1.gif
+  - /assets/images/game-dev/game-jams/island-pair-a-dice-sample-2.gif
 itch: https://blackopsben.itch.io/island-pair-a-dice
 excerpt: You roll dice! That's the entire game! Isn't that great?
 jam: "GMTK Game Jam 2022"

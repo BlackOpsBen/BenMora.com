@@ -3,10 +3,8 @@ title: "Intern Et"
 date: 2020-02-09
 thumb: /assets/images/game-dev/game-jams/intern-et-thumb.png
 screenshots:
-  - /assets/images/game-dev/game-jams/intern-et-sample.gif
-  - /assets/images/game-dev/game-jams/intern-et-sample.gif
-  - /assets/images/game-dev/game-jams/intern-et-sample.gif
-  - /assets/images/game-dev/game-jams/intern-et-sample.gif
+  - /assets/images/game-dev/game-jams/intern-et-sample-1.gif
+  - /assets/images/game-dev/game-jams/intern-et-sample-2.gif
 itch: https://blackopsben.itch.io/intern-et
 excerpt: Provide coffee. Fix computers. Stay hydrated.
 jam: "Mini Jam 47: Internet"

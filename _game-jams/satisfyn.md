@@ -3,10 +3,8 @@ title: "Satisfy'n: Keep the Lova Alive"
 date: 2020-04-20
 thumb: /assets/images/game-dev/game-jams/satisfyn-thumb.png
 screenshots:
-  - /assets/images/game-dev/game-jams/satisfyn-sample.gif
-  - /assets/images/game-dev/game-jams/satisfyn-sample.gif
-  - /assets/images/game-dev/game-jams/satisfyn-sample.gif
-  - /assets/images/game-dev/game-jams/satisfyn-sample.gif
+  - /assets/images/game-dev/game-jams/satisfyn-sample-1.gif
+  - /assets/images/game-dev/game-jams/satisfyn-sample-2.gif
 itch: https://blackopsben.itch.io/satisfyn
 excerpt: Keep the love alive! And while you aren't fanning the flame, run around town and do OTHER stuff!
 jam: "Ludum Dare 46 Compo"
