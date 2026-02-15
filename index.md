@@ -24,4 +24,4 @@ feature_row:
 ---
 Welcome to my website!
 
-{% include feature_row %}
+{% include feature_row.html %}
