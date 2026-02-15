@@ -1,5 +1,5 @@
 ---
-title: "Satisfy'n: Keep the Lova Alive"
+title: "Satisfy'n: Keep the Love Alive"
 date: 2020-04-20
 thumb: /assets/images/game-dev/game-jams/satisfyn-thumb.png
 screenshots:
