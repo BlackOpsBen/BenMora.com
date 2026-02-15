@@ -4,7 +4,7 @@ layout: single
 author_profile: true
 
 feature_row:
-  - image_path: /assets/images/game-dev/game-dev-thumb.jpg
+  - image_path: /assets/images/game-dev/game-dev-thumb.gif
     alt: "Game Development"
     title: "Game Development"
     excerpt: "Games and prototypes I've created"
