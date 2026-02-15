@@ -18,7 +18,7 @@ feature_row:
 
   - image_path: /assets/images/animation/15-minute-mograph/15minmograph_5-12-21.gif
     alt: "Miscellaneous"
-    title: "Miscellaneous"
+    title: "Misc"
     excerpt: "Other fun things I've created!"
     url: "/misc/"
 ---
