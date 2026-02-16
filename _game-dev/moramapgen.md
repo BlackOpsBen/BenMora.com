@@ -28,7 +28,7 @@ Here's an animated example of what happens instantly:
 6. New corridor paths are created
 All of the above are based on your settings.
 
-![Example skins]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/reskin-duos.gif){: .alighn-center}
+![Example skins]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/reskin-duos.gif){: .align-center}
 
 ![Module prefabs needed]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/min-modules.png){: .alighn-left}
 You define the look of the maps by providing your own prefabs. At a minimum you'll need the following:
