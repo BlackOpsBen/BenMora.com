@@ -2,7 +2,7 @@
 title: MoraMapGen
 excerpt: Procedurally generated dungeon room and corridor layouts
 header:
-  teaser: /assets/images/game-dev/moramapgen/moramapgen-thumb.gif
+  teaser: /assets/images/game-dev/moramapgen/moramapgen-thumb.png
   #video:
     #id: 5qo8odfwXk4
     #provider: youtube
