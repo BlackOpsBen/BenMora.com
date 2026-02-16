@@ -6,6 +6,8 @@ header:
 layout: single
 classes: wide
 ---
-TODO content
+For Inktober 2020 one my my drawings was this Car I designed:
+[Inktbr car]({{ site.url }}{{ site.baseurl }}/assets/images/thumbs/illustration/inktober-2019/Day-28-Ride.jpg)
+Later I created this 3D model and render of it:
 
 ![Inktbr Car Render]({{ site.url }}{{ site.baseurl }}assets/videos/inktbr-car-render.mp4)
