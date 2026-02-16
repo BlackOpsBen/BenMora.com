@@ -14,10 +14,11 @@ Procedural Rooms and Corridors Layout Generator
 {% include video id="5qo8odfwXk4" provider="youtube" %}
 
 [Get it on the Unity Asset Store](https://assetstore.unity.com/packages/slug/289878)
+[Watch the tutorial](https://youtu.be/ky3gvNfGBI0)
 
 This is a tool I created for the game I am developing. It uses Wave-Function Collapse (WFC) to generate layouts of rooms and corridors based on sprite templates.
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/wfc-animated-example.gif)
+![Animated example of WFC]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/wfc-animated-example.gif){: .align-right}
 Here's an animated example of what happens instantly:
 1. Bounds are defined
 2. WFC fills the interior
@@ -27,9 +28,9 @@ Here's an animated example of what happens instantly:
 6. New corridor paths are created
 All of the above are based on your settings.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/reskin-duos.gif)
+![Example skins]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/reskin-duos.gif){: .alighn-center}
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/min-modules.png)
+![Module prefabs needed]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/min-modules.png){: .alighn-left}
 You define the look of the maps by providing your own prefabs. At a minimum you'll need the following:
 * Straight wall
 * Inside corner wall
