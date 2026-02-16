@@ -43,3 +43,6 @@ gallery:
 While working as a Visual Designer on the GFX team at Garmin, I had the DREAM job of making official artwork for my two absolute favorite IPs: Star Wars and Spider-Man!
 
 {% include gallery %}
+
+hBxn5uf8kZo
+icXrJuHHIgI
