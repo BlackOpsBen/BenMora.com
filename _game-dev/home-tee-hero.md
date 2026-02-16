@@ -2,7 +2,7 @@
   title: Home Tee Hero
   excerpt: Garmin's Golf Simulator
   header:
-    teaser: /assets/images/game-dev/hometeehero/hometeehero-thumb.png
+    teaser: /assets/images/game-dev/hometeehero/hometeehero-thumb.jpg
   #video:
     #id: 5qo8odfwXk4
     #provider: youtube
@@ -19,6 +19,7 @@ My role as a Technical Artist involved creating shaders, special effects, partic
 {% include video id="BOoiIkatYEY" provider="youtube" %}
 
 {% include video id="9UwdGle82i4" provider="youtube" %}
+
 
 
 
