@@ -17,6 +17,22 @@ Procedural Rooms and Corridors Layout Generator
 
 This is a tool I created for the game I am developing. It uses Wave-Function Collapse (WFC) to generate layouts of rooms and corridors based on sprite templates.
 
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/wfc-animated-example.gif)
+Here's an animated example of what happens instantly:
+1. Bounds are defined
+2. WFC fills the interior
+3. Corridors are removed
+4. Excessively large rooms are split
+5. Tiny rooms are removed
+6. New corridor paths are created
+All of the above are based on your settings.
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/reskin-duos.gif)
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/reskin-duos.gif) Testing wrap filler text fjdsfj jiks jlsfj sdfjkls lgshjlsahf dfgh gfhsk kg hdj sdlkfjg lkfjg lskdj slfkjgdf lfdkj sdflkjs glfkj sdfglksjdf lgfjd flgkjsd flkjfg lsdkgjsad flkdsjg flk
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/min-modules.png)
+You define the look of the maps by providing your own prefabs. At a minimum you'll need the following:
+* Straight wall
+* Inside corner wall
+* Outside corner wall
+* Floor
+* Optional: Interior and/or exterior ceilings
