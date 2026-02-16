@@ -122,6 +122,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:ben@benmora.com"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: https://www.youtube.com/@MoraGamesDev
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
