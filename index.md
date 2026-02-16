@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Behold! My Stuff!
 layout: single
 author_profile: true
 
@@ -22,6 +22,6 @@ feature_row:
     excerpt: "Other fun things I've created!"
     url: "/misc/"
 ---
-Welcome to my website!
+Welcome to my digital garden!
 
 {% include feature_row.html %}
