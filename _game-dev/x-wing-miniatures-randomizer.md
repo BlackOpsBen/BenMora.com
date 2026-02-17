@@ -1,5 +1,5 @@
 ---
-title: "X-Wing Miniatures Game: Squadron Randomizer"
+title: "X-Wing Randomizer"
 excerpt: Tool for spicing up X-Wing Miniatures games by randomly creating your lists!
 header:
   teaser: /assets/images/game-dev/moramapgen/moramapgen-thumb.png
@@ -20,7 +20,7 @@ Select a faction...
 
 In the settings you can specify which X-Wing products you own (or want to be limited to):
 
-![Product selection]({{ site.url }}{{ site.baseurl }}/assets/images/original/game-dev/x-wing-randomizer/product-selection.png){: .align-center}
+![Product selection]({{ site.url }}{{ site.baseurl }}/assets/images/large/game-dev/x-wing-randomizer/product-selection.png){: .align-center}
 
 You can view the lists of each faction as you go:
 
