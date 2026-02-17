@@ -2,7 +2,7 @@
 title: "X-Wing Randomizer"
 excerpt: Tool for spicing up X-Wing Miniatures games by randomly creating your lists!
 header:
-  teaser: /assets/images/thumb/game-dev/x-wing-randomizer/cover.png
+  teaser: /assets/images/thumbs/game-dev/x-wing-randomizer/cover.png
 layout: single
 classes: wide
 ---
