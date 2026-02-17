@@ -56,7 +56,7 @@ For this project I had the privalege of acting as ad hoc art director. I came up
 
 {% include gallery %}
 
-Check out the Vivofit Jr 2 [Star Wars](https://www.garmin.com/en-US/p/681757/pn/010-01909-3A/) and [Spider-Man](https://www.garmin.com/en-US/p/637006/pn/010-01909-37/)
+Check out the Vivofit Jr 2 <a href="https://www.garmin.com/en-US/p/681757/pn/010-01909-3A/" target="_blank" rel="noopener noreferrer">Star Wars</a> and <a href="https://www.garmin.com/en-US/p/637006/pn/010-01909-37/" target="_blank" rel="noopener noreferrer">Spider-Man</a>
 
 {% include video id="icXrJuHHIgI" provider="youtube" %}
 
