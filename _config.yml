@@ -144,6 +144,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@MoraGamesDev"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
