@@ -47,8 +47,8 @@ gallery:
 While working as a Visual Designer on the GFX team at Garmin, I had the DREAM job of making official artwork for my two absolute favorite IPs: Star Wars and Spider-Man!
 
 <figure class="half">
-    <img src="/assets/images/large/illustration/vivofit-jr-adventures/bfjr2-star-wars.jpg"></a>
-    <img src="/assets/images/large/illustration/vivofit-jr-adventures/vfjr2-spider-man.jpg"></a>
+    <img src="/assets/images/large/illustration/vivofit-jr-adventures/bfjr2-star-wars.jpg">
+    <img src="/assets/images/large/illustration/vivofit-jr-adventures/vfjr2-spider-man.jpg">
     <figcaption>Vivofit Jr. 2</figcaption>
 </figure>
 
