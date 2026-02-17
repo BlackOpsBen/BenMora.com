@@ -7,6 +7,10 @@ layout: single
 classes: wide
 author_profile: true
 gallery:
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/millenium-falcon.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/millenium-falcon.png
+  - url: /assets/images/large/illustration/vivofit-jr-adventures/escape-pod.png
+    image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/escape-pod.png
   - url: /assets/images/large/illustration/vivofit-jr-adventures/endor.png
     image_path: /assets/images/thumbs/illustration/vivofit-jr-adventures/endor.png
   - url: /assets/images/large/illustration/vivofit-jr-adventures/tatooine.png
@@ -42,7 +46,19 @@ gallery:
 ---
 While working as a Visual Designer on the GFX team at Garmin, I had the DREAM job of making official artwork for my two absolute favorite IPs: Star Wars and Spider-Man!
 
+<figure class="half">
+    <img src="/assets/images/large/illustration/vivofit-jr-adventures/bfjr2-star-wars.jpg"></a>
+    <img src="/assets/images/large/illustration/vivofit-jr-adventures/vfjr2-spider-man.jpg"></a>
+    <figcaption>Vivofit Jr. 2</figcaption>
+</figure>
+
+For this project I had the privalege of acting as ad hoc art director. I came up with and pitched the ideas, and planned the designs, and even had a role in making game play desicions. I also wore the hat of a technical artist by being the one to directly place the artwork in the engine and setup triggers, create and implement animations, and create automation processes. I had help with a lot of the initial sketches and some rendering, but what you see below are some highlights of what I worked on.
+
 {% include gallery %}
 
-hBxn5uf8kZo
-icXrJuHHIgI
+Check out the Vivofit Jr 2[Star Wars](https://www.garmin.com/en-US/p/681757/pn/010-01909-3A/) and [Spider-Man](https://www.garmin.com/en-US/p/637006/pn/010-01909-37/)
+
+{% include video id="icXrJuHHIgI" provider="youtube" %}
+
+{% include video id="hBxn5uf8kZo" provider="youtube" %}
+
