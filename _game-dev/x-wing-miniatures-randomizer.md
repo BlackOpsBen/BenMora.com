@@ -8,7 +8,7 @@ classes: wide
 ---
 As a way to spice-up my X-Wing games, and to have something fun to do with Unity, I created this application for randomizing your squadrons.
 
-[Try it out!](https://blackopsben.itch.io/x-wing-miniatures-randomizer)
+[Try it out on Itch.io!](https://blackopsben.itch.io/x-wing-miniatures-randomizer)
 
 Select a faction...
 
@@ -25,3 +25,5 @@ In the settings you can specify which X-Wing products you own (or want to be lim
 You can view the lists of each faction as you go:
 
 ![Product selection]({{ site.url }}{{ site.baseurl }}/assets/images/original/game-dev/x-wing-randomizer/lists.png){: .align-center}
+
+[Try it out on Itch.io!](https://blackopsben.itch.io/x-wing-miniatures-randomizer)
