@@ -14,6 +14,7 @@ Procedural Rooms and Corridors Layout Generator
 {% include video id="5qo8odfwXk4" provider="youtube" %}
 
 [Get it on the Unity Asset Store](https://assetstore.unity.com/packages/slug/289878)
+
 [Watch the tutorial](https://youtu.be/ky3gvNfGBI0)
 
 This is a tool I created for the game I am developing. It uses Wave-Function Collapse (WFC) to generate layouts of rooms and corridors based on sprite templates.
@@ -26,9 +27,8 @@ Here's an animated example of what happens instantly:
 4. Excessively large rooms are split
 5. Tiny rooms are removed
 6. New corridor paths are created
-All of the above are based on your settings.
 
-![Example skins]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/reskin-duos.gif){: .align-center}
+All of the above are based on your settings.
 
 ![Module prefabs needed]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/min-modules.png){: .alighn-left}
 You define the look of the maps by providing your own prefabs. At a minimum you'll need the following:
@@ -37,3 +37,16 @@ You define the look of the maps by providing your own prefabs. At a minimum you'
 * Outside corner wall
 * Floor
 * Optional: Interior and/or exterior ceilings
+
+![Example skins]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/reskin-duos.gif){: .align-center}
+
+Generate all sorts of unique layouts!
+
+![Example layouts]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/layouts-examples.gif){: .align-right}
+
+![Great for 3rd-Person ...]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/Vid_1stperson.png){: .align-center}
+![... First-Person ...]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/Vid_3rdperson.png){: .align-center}
+![... and grid-based dungeon crawlers!]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/Vid_dungeon.png){: .align-center}
+
+Allows quick validation of your settings for any bad layouts by generating thousands of resulting maps in a very short time.
+![Validation example]({{ site.url }}{{ site.baseurl }}/assets/images/game-dev/moramapgen/validation-example.gif){: .align-right}
