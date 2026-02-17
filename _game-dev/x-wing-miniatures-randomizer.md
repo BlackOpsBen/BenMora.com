@@ -2,13 +2,13 @@
 title: "X-Wing Randomizer"
 excerpt: Tool for spicing up X-Wing Miniatures games by randomly creating your lists!
 header:
-  teaser: /assets/images/game-dev/moramapgen/moramapgen-thumb.png
+  teaser: /assets/images/thumb/game-dev/x-wing-randomizer/cover.png
 layout: single
 classes: wide
 ---
 As a way to spice-up my X-Wing games, and to have something fun to do with Unity, I created this application for randomizing your squadrons.
 
-[Try it out!](https://blackopsben.github.io/X-WingRandomizer/)
+[Try it out!](https://blackopsben.itch.io/x-wing-miniatures-randomizer)
 
 Select a faction...
 

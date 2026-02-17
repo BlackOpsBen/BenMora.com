@@ -12,9 +12,9 @@
 I was a part of creating Garmin's revamped Home Tee Hero game, a golf simulator for the R50 Launch Monitor.
 My role as a Technical Artist involved creating shaders, special effects, particle systems, gameplay mechanics, design, and pretty much everything from concept to code to graphics.
 
-[Check out the Garmin R50](https://www.garmin.com/en-US/p/736810/pn/010-02542-00/)
+<a href="https://www.garmin.com/en-US/p/736810/pn/010-02542-00/" target="_blank" rel="noopener noreferrer">Check out the Garmin R50</a>
 
-[Check out the Home Tee Hero app](https://www.garmin.com/en-US/p/2010962/pn/010-D2349-00/)
+<a href="https://www.garmin.com/en-US/p/2010962/pn/010-D2349-00/" target="_blank" rel="noopener noreferrer">Check out the Home Tee Hero app</a>
 
 {% include video id="BOoiIkatYEY" provider="youtube" %}
 
