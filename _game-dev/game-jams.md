@@ -60,6 +60,9 @@ Head over to my <a href="https://blackopsben.itch.io/" target="_blank" rel="noop
   <p>{{ game.excerpt }}</p>
 
   <p>
+    [{{ game.jam }}]({{ game.jamlink }})
+    {{ game.jamtheme }}
+    Duration: {{ game.jamtime }}
     Placed #{{ game.rank }} out of {{ game.outof }}.
     {% if game.percent %}
       (Top {{ game.percent }}%)
