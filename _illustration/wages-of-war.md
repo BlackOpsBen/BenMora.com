@@ -68,6 +68,10 @@ gallery:
   - url: /assets/images/large/illustration/wages-of-war/siege-tower.jpg
     image_path: /assets/images/thumbs/illustration/wages-of-war/siege-tower.jpg
 ---
-I've been obsessed with wages-of-war ever since I can remember. I made my own wages-of-war fan website called SpidermanFreaks when I was about 13. (I can't remember the url. If someone finds it on the internet archive, I would be forever in your debt!)
+Wages of War: The Uncooperative Siege Game, is a board game I designed and illustrated, and had LOTS of playtesting help from my Uncle Rick; he was basically a co-designer! I launched a Kickstarter back in 2017, but canceled it after all funding progress flattened out. (It's said that it's better to cancel and re-laucnh a project rather than to have it fail first.)
+
+{% include video id="GySUc515N_A" provider="youtube" %}
+
+{% include video id="SwnzDUajW14" provider="youtube" %}
 
 {% include gallery %}

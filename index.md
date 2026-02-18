@@ -16,7 +16,7 @@ feature_row:
     excerpt: "Illustrations both digital and traditional"
     url: "/illustration/"
 
-  - image_path: /assets/images/animation/15-minute-mograph/15minmograph_5-12-21.gif
+  - image_path: /assets/images/inktbr-car-render-thumb.gif
     alt: "Miscellaneous"
     title: "Misc"
     excerpt: "Other fun things I've created!"
