@@ -70,6 +70,6 @@ gallery:
   - url: /assets/images/large/illustration/inktober-2017/Day-31-Mask.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2017/Day-31-Mask.jpg
 ---
-This is my stuff!
+This was my first time participating in Inktober; a daily drawing challenge every October. Not only did this push me as an artist, but it was at a time in my life when I needed to prove to myself that I could achieve something and not give up.
 
 {% include gallery %}

@@ -7,4 +7,4 @@ excerpt: "Other fun things I've done"
 header:
     teaser: /assets/images/inktbr-car-render-thumb.gif
 ---
-This is my other stuff!
+These are some of my other creations!

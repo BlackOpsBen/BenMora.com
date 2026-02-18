@@ -70,6 +70,6 @@ gallery:
   - url: /assets/images/large/illustration/january-drawing-challenge-2018/2018-02-10-3.jpg
     image_path: /assets/images/thumbs/illustration/january-drawing-challenge-2018/2018-02-10-3.jpg
 ---
-This is my stuff!
+Having just completed my first Inktober 3 months prior, I craved more, so I took it upon myself to make my own daily drawing challenge. These are the results.
 
 {% include gallery %}

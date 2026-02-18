@@ -70,6 +70,6 @@ gallery:
   - url: /assets/images/large/illustration/inktober-2019/Day-31-Ripe.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2019/Day-31-Ripe.jpg
 ---
-This is my stuff!
+These are my daily ink drawings for Inktober 2019.
 
 {% include gallery %}

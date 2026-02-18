@@ -70,6 +70,6 @@ gallery:
   - url: /assets/images/large/illustration/inktober-2018/Day-31-Slice.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2018/Day-31-Slice.jpg
 ---
-This is my stuff!
+This was my second time participating in Inktober!
 
 {% include gallery %}

@@ -70,6 +70,6 @@ gallery:
   - url: /assets/images/large/illustration/inktober-2021/Day-31-Risk.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2021/Day-31-Risk.jpg
 ---
-This is my stuff!
+This would be the last time I participated in Inktober. At this point my passion for game-dev was so great it became hard to justify devoting an entire month just to drawing. The following year I got married, so that sealed the deal. No more time for Inktober.
 
 {% include gallery %}

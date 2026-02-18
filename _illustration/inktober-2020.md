@@ -70,6 +70,6 @@ gallery:
   - url: /assets/images/large/illustration/inktober-2020/Day-31-Crawl.jpg
     image_path: /assets/images/thumbs/illustration/inktober-2020/Day-31-Crawl.jpg
 ---
-This is my stuff!
+This was my 4th year in a row doing Inktober, and this time I decided I needed to challenge myself even more by not allowing myself to use pencil first. This time it was straight from my brain to ink.
 
 {% include gallery %}
