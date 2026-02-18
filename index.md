@@ -7,7 +7,7 @@ feature_row:
   - image_path: /assets/images/game-dev/game-dev-thumb.gif
     alt: "Game Development"
     title: "Game Development"
-    excerpt: "Games and prototypes I've created"
+    excerpt: "My passion!"
     url: "/game-dev/"
 
   - image_path: /assets/images/thumbs/illustration/inktober-2017/Day-31-Mask.jpg
